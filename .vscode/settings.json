@@ -1,0 +1,6 @@
+{
+    "git.enabled": true,
+    "typescript.preferGoToSourceDefinition": false,
+    "scm.providerCountBadge": "hidden",
+    "git.decorations.enabled": false
+}
